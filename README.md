@@ -1,4 +1,4 @@
-# Torwards to LLMs
+# Towards LLMs
 Welcome to the LLM and Related Projects repository! This repository is dedicated to exploring, developing, and sharing projects centered around Large Language Models (LLMs), including but not limited to GPT-4, BERT, T5, and other state-of-the-art NLP models.
 
 ![LLM](https://c6140bba-5c2d-4e7d-a82a-e7f61c4f4b4e.s3.ap-southeast-2.amazonaws.com/blog/7/AI+Brain.jpeg)
@@ -19,7 +19,7 @@ Large Language Models (LLMs) have revolutionized natural language processing (NL
 
     models/: Contains scripts and configurations for training and fine-tuning different LLMs.
     datasets/: Datasets used for training and evaluation.
-    notebooks/: Jupyter notebooks with interactive tutorials and experiments.
+    Notebooks/: Jupyter notebooks with interactive tutorials and experiments.
     applications/: Sample applications demonstrating the use of LLMs in various domains.
     benchmarks/: Benchmark results and evaluation scripts.
 
