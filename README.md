@@ -37,7 +37,7 @@ Explore the Projects: Browse through the directories to find projects and tutori
 💡 Applications
 Chatbots
 
-    Conversational Agents: Build chatbots capable of engaging in natural and coherent conversations across various topics.
+    Conversational Agents: Develop chatbots that can engage in natural and coherent conversations across diverse topics.
     Customer Support Bots: Develop bots that provide automated customer service, resolving common queries and issues.
 
 Content Generation
@@ -53,7 +53,7 @@ Language Translation
 Sentiment Analysis
 
     Product Reviews: Analyze customer reviews to determine sentiment and extract key insights.
-    Social Media Monitoring: Monitor social media platforms to gauge public sentiment.
+    Social Media Monitoring: Monitor social media platforms to gauge public sentiment and opinion.
 
 Text Summarization
 
